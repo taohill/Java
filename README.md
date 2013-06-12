@@ -5,7 +5,7 @@
 目前正在编写
 
 <!--以下是QQ邮件列表订阅嵌入代码-->
-<a rel="nofollow" target="_blank" href="http://list.qq.com/cgi-bin/qf_invite?id=9470cda4ab8e31116b60ca9011bc7991511661b78345faed">
+<a rel="nofollow" target="_blank" href="http://list.qq.com/cgi-bin/qf_invite?">
 	<img border="0" alt="填写您的邮件地址，订阅我们的精彩内容：" src="http://rescdn.list.qq.com/zh_CN/htmledition/images/qunfa/manage/picMode_light_m.png" />
 </a>
 
